@@ -1,20 +1,19 @@
 * {
     box-sizing: border-box;
-    margin: 0px;
-    font-style: tahoma;
+    margin: 0;
 }
 body {
     background: black;
 }
 ul.u1 {
-    margin: 0px;
+    margin: 0;
     padding: 100px;
 }
 ul.u1 li {
     font-size: 20px;
     float: right;
     list-style-type: none;
-    margin: 0px;
+    margin: 0;
     background: rgb(2, 102, 133);
     width: 33.33333333%;
     text-align: center;
@@ -34,8 +33,8 @@ div.d1 {
     background-image: url("2.jpg");
     background-attachment: fixed;
     border-bottom: yellow 2px solid;
-    margin: 0px;
-    padding: 0px;
+    margin: 0;
+    padding: 0;
     height: 300px;
     width: 100%;
 }
@@ -57,14 +56,12 @@ h1.h11 {
     color: yellow;
 }
 ul.u2 {
-    margin: 10px;
-    margin-right: -7px;
+    margin: 10px -7px 10px 10px;
     font-size: 24px;
     float: right;
 }
 ul.u2 li {
     list-style-type: circle;
-    list-style-position: inline;
     color: rgb(203, 195, 236);
     padding: 4px;
 }
