@@ -1,0 +1,96 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    font-style: tahoma;
+}
+body {
+    background: black;
+}
+div.d3 {
+    background-image: url("4.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 2000px;
+    width: auto;
+}
+ul.u1 {
+    margin: 0px;
+    padding: 100px;
+}
+ul.u1 li {
+    font-size: 20px;
+    float: right;
+    list-style-type: none;
+    margin: 0px;
+    background: rgb(2, 102, 133);
+    width: 33.33333333%;
+    text-align: center;
+}
+
+ul.u1 li a {
+    color: rgb(214, 214, 19);
+    text-decoration: none;
+    display: block;
+    padding: 20px 80px;
+    border: 2px solid  red;
+}
+ul.u1 li a:hover {
+    background: black;
+}
+div.d1 {
+    background-image: url("2.jpg");
+    background-attachment: fixed;
+    margin: 0px;
+    padding: 0px;
+    height: 300px;
+    width: 100%;
+}
+h1 {
+    font-size: 50px;
+    text-align: center;
+    background-color: rgb(77, 5, 136);
+    color: white;
+    border: 6px yellow double;
+    padding: 20px;
+}
+div.d2 {
+    border-top: yellow 6px groove;
+    border-left: black 3px solid;
+    border-right: black 3px solid;
+    border-bottom: black 6px solid;
+}
+h4 {
+    background-color: rgb(231, 229, 243);
+    padding: 20px;
+}
+h4.h41 {
+    color:rgb(177, 14, 35);
+    font-size: 40px;
+}
+img {
+    height: 250px;
+    width: 220px;
+    float: left;
+}
+h4.h42 {
+    font-size: 25px;
+    color: rgb(14, 168, 78);
+}
+p {
+    font-size: 23px;
+    color: rgb(3, 58, 17);
+    padding: 20px;
+    background-color: rgb(231, 229, 243);
+}
+h3.h31 {
+    color: yellow;
+}
+a.a1 {
+    text-decoration: none;
+    color:rgb(14, 168, 78);
+}
+a.a1:hover {
+    text-decoration: underline;
+}
