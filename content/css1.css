@@ -1,7 +1,6 @@
 * {
     box-sizing: border-box;
-    margin: 0px;
-    font-style: tahoma;
+    margin: 0;
 }
 body {
     background: black;
@@ -16,14 +15,14 @@ div.d3 {
     width: auto;
 }
 ul.u1 {
-    margin: 0px;
+    margin: 0;
     padding: 100px;
 }
 ul.u1 li {
     font-size: 20px;
     float: right;
     list-style-type: none;
-    margin: 0px;
+    margin: 0;
     background: rgb(2, 102, 133);
     width: 33.33333333%;
     text-align: center;
@@ -42,8 +41,8 @@ ul.u1 li a:hover {
 div.d1 {
     background-image: url("2.jpg");
     background-attachment: fixed;
-    margin: 0px;
-    padding: 0px;
+    margin: 0;
+    padding: 0;
     height: 300px;
     width: 100%;
 }

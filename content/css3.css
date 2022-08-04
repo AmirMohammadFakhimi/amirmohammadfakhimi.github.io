@@ -1,20 +1,19 @@
 * {
     box-sizing: border-box;
-    margin: 0px;
-    font-style: tahoma;
+    margin: 0;
 }
 body {
     background: black;
 }
 ul.u1 {
-    margin: 0px;
+    margin: 0;
     padding: 100px;
 }
 ul.u1 li {
     font-size: 20px;
     float: right;
     list-style-type: none;
-    margin: 0px;
+    margin: 0;
     background: rgb(2, 102, 133);
     width: 33.33333333%;
     text-align: center;
@@ -33,10 +32,9 @@ ul.u1 li a:hover {
 div.d1 {
     background-image: url("2.jpg");
     border-bottom: yellow 3px solid;
-    margin: 0px;
+    margin: 0;
     background-attachment: fixed;
-    margin: 0px;
-    padding: 0px;
+    padding: 0;
     height: 300px;
     width: 100%;
 }
@@ -53,7 +51,7 @@ form {
     
 }
 input, textarea {
-    margin: 10px 0px 25px 0px;
+    margin: 10px 0 25px 0;
 }
 button {
     height: 27px;
