@@ -2,13 +2,16 @@
     box-sizing: border-box;
     margin: 0;
 }
+
 body {
     background: black;
 }
+
 ul.u1 {
     margin: 0;
     padding: 100px;
 }
+
 ul.u1 li {
     font-size: 20px;
     float: right;
@@ -24,11 +27,13 @@ ul.u1 li a {
     text-decoration: none;
     display: block;
     padding: 20px 80px;
-    border: 2px solid  red;
+    border: 2px solid red;
 }
+
 ul.u1 li a:hover {
     background: black;
 }
+
 div.d1 {
     background-image: url("2.jpg");
     background-attachment: fixed;
@@ -38,6 +43,7 @@ div.d1 {
     height: 300px;
     width: 100%;
 }
+
 div.d2 {
     background-image: url("9.jpg");
     height: 30px;
@@ -45,6 +51,7 @@ div.d2 {
     background-position: -10px 4px;
     background-attachment: fixed;
 }
+
 div.d3 {
     padding: 15px;
     background-color: rgb(20, 5, 61);
@@ -52,30 +59,37 @@ div.d3 {
     height: 1600px;
     width: auto;
 }
+
 h1.h11 {
     color: yellow;
 }
+
 ul.u2 {
     margin: 10px -7px 10px 10px;
     font-size: 24px;
     float: right;
 }
+
 ul.u2 li {
     list-style-type: circle;
     color: rgb(203, 195, 236);
     padding: 4px;
 }
+
 ul.u2 li a {
     text-decoration: underline;
     color: rgb(203, 195, 236);
 }
+
 ul.u2 li a:hover {
     text-decoration: none;
     color: white;
 }
+
 ul.u2 li a:active {
     color: red;
 }
+
 iframe {
     border: solid rgb(255, 0, 0) 5px;
     background-image: url("7.webp");

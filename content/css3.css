@@ -2,13 +2,16 @@
     box-sizing: border-box;
     margin: 0;
 }
+
 body {
     background: black;
 }
+
 ul.u1 {
     margin: 0;
     padding: 100px;
 }
+
 ul.u1 li {
     font-size: 20px;
     float: right;
@@ -24,11 +27,13 @@ ul.u1 li a {
     text-decoration: none;
     display: block;
     padding: 20px 80px;
-    border: 2px solid  red;
+    border: 2px solid red;
 }
+
 ul.u1 li a:hover {
     background: black;
 }
+
 div.d1 {
     background-image: url("2.jpg");
     border-bottom: yellow 3px solid;
@@ -38,6 +43,7 @@ div.d1 {
     height: 300px;
     width: 100%;
 }
+
 div.d2 {
     color: white;
     padding: 20px;
@@ -45,14 +51,17 @@ div.d2 {
     border-top: yellow 3px solid;
     height: 1000px;
 }
+
 form {
     font-size: 19px;
     margin: 10px;
-    
+
 }
+
 input, textarea {
     margin: 10px 0 25px 0;
 }
+
 button {
     height: 27px;
     width: 70px;
