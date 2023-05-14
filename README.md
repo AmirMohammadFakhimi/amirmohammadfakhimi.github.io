@@ -1,3 +1,3 @@
 # amirmohammadfakhimi.github.io
 
-It's my website. 😉
+It's my simple Github website. 😉
